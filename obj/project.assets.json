@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/vlroa/dev/net/PlatziWebsite/PlatziWebsite.csproj",
+      "projectUniqueName": "/home/vlroa/dev/net/CursoPlatziAppsAzure/PlatziWebsite.csproj",
       "projectName": "PlatziWebsite",
-      "projectPath": "/home/vlroa/dev/net/PlatziWebsite/PlatziWebsite.csproj",
+      "projectPath": "/home/vlroa/dev/net/CursoPlatziAppsAzure/PlatziWebsite.csproj",
       "packagesPath": "/home/vlroa/.nuget/packages/",
-      "outputPath": "/home/vlroa/dev/net/PlatziWebsite/obj/",
+      "outputPath": "/home/vlroa/dev/net/CursoPlatziAppsAzure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/vlroa/.nuget/NuGet/NuGet.Config"
